@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    padding: 10px;
+}
+
+input, button {
+    width: 150px;
+    padding: 5px;
+}
+
+input {
+    margin: 10px 0;
+}
